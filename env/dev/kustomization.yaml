@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/antsankov/demo-app
-  newTag: latest
+  newTag: c3692248dd61988cdb5c482929bd2df0546cb560
