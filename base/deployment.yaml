@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: demo-app
-          image: ghcr.io/antsankov/demo-app:latest
+          image: ghcr.io/antsankov/demo-app:f5baee7a97d3422ed946a18abcf42aa37528e9c4
           # env:
           # - name: SECRET
           #   valueFrom:
